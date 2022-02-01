@@ -1,0 +1,6 @@
+{name,"add"}.
+{vsn,"1.0.0"}.
+{template,[{mydivi,"1.0.0"}]}.
+{instances,2}.
+{affinity,[]}. %[]=all,
+{required_needs,[]}. %% {hw,hw_spec}|{port,port_nr}
