@@ -3,4 +3,4 @@
 {template,[{mydivi,"1.0.0"}]}.
 {instances,2}.
 {affinity,[]}. %[]=all,
-{required_needs,[]}. %% {hw,hw_spec}|{port,port_nr}
+{required_needs,[{port,60000},{hw,glurk}]}. %% {hw,hw_spec}|{port,port_nr}
