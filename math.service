@@ -2,5 +2,5 @@
 {vsn,"1.0.0"}.
 {template,[{myadd,"1.0.0"},{mydivi,"1.0.0"}]}.
 {instances,1}.
-{affinity,['h201@c100']}. %[]=all,
+{affinity,[{"c100","h201"}]}. %[]=all,
 {required_needs,[]}. %% {hw,hw_spec}|{port,port_nr}
