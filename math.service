@@ -4,3 +4,4 @@
 {instances,1}.
 {affinity,[{"c100","h201"}]}. %[]=all,
 {required_needs,[]}. %% {hw,hw_spec}|{port,port_nr}
+{deployment,[]}.

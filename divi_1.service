@@ -4,3 +4,4 @@
 {instances,2}.
 {affinity,[]}. %[]=all,
 {required_needs,[{port,60000},{hw,glurk}]}. %% {hw,hw_spec}|{port,port_nr}
+{deployment,[]}.
